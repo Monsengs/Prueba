@@ -1,0 +1,6 @@
+C:\Users\Alien 18\Documents\Monserrat Negrete Sánchez\Examenes\Examen5 Fovissste\MNegrete.Examen5.Fovissste\Volumen\bin\Debug\Volumen.exe.config
+C:\Users\Alien 18\Documents\Monserrat Negrete Sánchez\Examenes\Examen5 Fovissste\MNegrete.Examen5.Fovissste\Volumen\bin\Debug\Volumen.exe
+C:\Users\Alien 18\Documents\Monserrat Negrete Sánchez\Examenes\Examen5 Fovissste\MNegrete.Examen5.Fovissste\Volumen\bin\Debug\Volumen.pdb
+C:\Users\Alien 18\Documents\Monserrat Negrete Sánchez\Examenes\Examen5 Fovissste\MNegrete.Examen5.Fovissste\Volumen\obj\Debug\Volumen.exe
+C:\Users\Alien 18\Documents\Monserrat Negrete Sánchez\Examenes\Examen5 Fovissste\MNegrete.Examen5.Fovissste\Volumen\obj\Debug\Volumen.pdb
+C:\Users\Alien 18\Documents\Monserrat Negrete Sánchez\Examenes\Examen5 Fovissste\MNegrete.Examen5.Fovissste\Volumen\obj\Debug\Volumen.csprojResolveAssemblyReference.cache
